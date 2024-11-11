@@ -2,6 +2,8 @@
 c언어 과제
 
 코드
+
+
 #define SDL_MAIN_HANDLED  // SDL_main을 사용하지 않도록 정의
 
 #include <SDL.h>
